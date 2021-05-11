@@ -1,4 +1,4 @@
-This package provides trust region algorithms (TRA) for finding the minimum of some function. At the minute it contains only Levenberg-Marquart, but will be expanded to include NL2SOL and Powell's dogleg. 
+This package provides two trust region algorithms (TRA) for finding the minimum of some function, Levenberg-Marquardt and Powell's dogleg. 
 # Levenberg-Marquardt
 ## Example
 An example is included within the package, simply call:
